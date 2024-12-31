@@ -10,7 +10,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Hospital-Management-System
+  cd hospitalmanagmentsystem
 ```
 
 Install dependencies
